@@ -1,0 +1,3 @@
+ID	SEQLength	primerSetNum	primerOrient	product_size	start	len	tm	gc%	primerSeq
+testfasta	3694	1	left						
+testfasta	3694	1	right						
